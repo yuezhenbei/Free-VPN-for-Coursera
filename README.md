@@ -1,10 +1,10 @@
-# VPN-for-Coursera
+-for-Coursera
 主要是为了解决部分用户在Coursera上遇到的视频无法观看，黑屏，缓冲问题。<br>更多解决方法见：
 [Coursera视频无法观看的三种不同解决方法（亲测有效）](https://blog.csdn.net/qq_39521554/article/details/79039548#comments)
 
 <br>
 
-## VPN工具一：Shadow-SSR-4.0 
+## 工具一：Shadow-SSR-4.0 
 ### 使用方法<br>
 
 <br>
@@ -38,7 +38,7 @@
 
 <br>此时点击OK进行连接，即可科学上网，除了Coursera还可以上谷歌,FB,INS等网站
 
-## VPN工具二：SSTap
+## 工具二：SSTap
 ### 使用方法<br>
 
 <br>
