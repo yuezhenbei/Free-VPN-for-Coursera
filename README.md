@@ -1,7 +1,5 @@
 # VPN-for-Coursera
-
-
-科学上网工具：主要是为了解决部分用户在Coursera上遇到的视频无法观看，黑屏，缓冲问题。<br>更多解决方法见：
+主要是为了解决部分用户在Coursera上遇到的视频无法观看，黑屏，缓冲问题。<br>更多解决方法见：
 [Coursera视频无法观看的三种不同解决方法（亲测有效）](https://blog.csdn.net/qq_39521554/article/details/79039548#comments)
 
 <br>
